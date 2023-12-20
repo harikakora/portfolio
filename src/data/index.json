@@ -1,0 +1,69 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "HTML, CSS, Bootstrap"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Databases",
+      "description": "Mysql, MongoDB Atlas"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-1.png",
+      "title": "Back-End",
+      "description": "C, Python, Flask (Python Framework)"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-2.png",
+      
+     
+      "description": "Web Development, UI Design, Coding"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "title": "Blog Application",
+      "description": "Blog Application, The main objective of this project is a social networking service(SNS) is an online vehicle for creating relationships with other people who share an interest, background, or real relationship. Social networking service users create a profile with personal information and photos and form connections with other profiles.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "title": "Personal Portfolio",
+      "description": "Built an React JS Personal Portfolio Website.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
